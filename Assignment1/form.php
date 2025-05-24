@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Assignment1</title>
+    <title>Assignment6</title>
 </head>
 
 <body>
